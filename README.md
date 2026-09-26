@@ -1,8 +1,7 @@
 # Experiment 01: Hypervisor Performance Analysis
 ## Benchmarking Type-1 (Proxmox VE) vs Type-2 (VMware Workstation) Virtualization
 
-[![Course](https://img.shields.io/badge/Course-Cloud%20Computing%20Lab-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com)
-[![Semester](https://img.shields.io/badge/Semester-5th%20Semester-informational?style=for-the-badge)](https://github.com)
+[![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com)
 [![Type-1 Hypervisor](https://img.shields.io/badge/Type--1%20Hypervisor-Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![Type-2 Hypervisor](https://img.shields.io/badge/Type--2%20Hypervisor-VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
 [![Guest OS](https://img.shields.io/badge/Guest%20OS-Ubuntu%2022.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
@@ -279,5 +278,5 @@ sudo poweroff
 ## 6. Author Information
 
 - **Student Name**: Aditya Gavimath
-- **Course**: Cloud Computing Laboratory (5th Semester)
+- **Topic**: Cloud Computing
 - **Experiment**: Experiment 01 — Performance Analysis of Type-1 and Type-2 Hypervisors
